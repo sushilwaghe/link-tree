@@ -1,0 +1,48 @@
+.card-container{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 5px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+.card-link-handle{
+    display: flex;
+}
+.card-img{
+    height: 60px;
+    box-shadow: 5px 3px 5px  rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+}
+.card-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.card-description{
+    padding-left: 10px;
+}
+.bg-linkedin{
+    background-color: #00a0dc;
+    color: aliceblue;
+}
+.bg-github{
+    background-color: #313335;
+    color: aliceblue;
+}
+.bg-facebook{
+    background-color: 	#3b5998;
+    color: aliceblue;
+}
+.bg-instagram{
+    background-color: #833AB4;
+    color: aliceblue;
+}
+.card-name{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.card-link{
+    color: white;
+    text-decoration: none;
+}
